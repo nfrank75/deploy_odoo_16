@@ -1,9 +1,9 @@
 This project is to show how to deploy odoo 16 using docker-compose on a ubuntu 20 server
 
 
-- install odoo on server
-- install postgres 12 on server
-- do the update & upgrade
+- add the image of odoo service on docker-compose.yml
+- add the image of postgres 12 on docker-compose
+
 
 
 - create a folder odoo_16 with mkdir odoo_16
